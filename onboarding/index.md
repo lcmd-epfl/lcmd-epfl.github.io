@@ -7,8 +7,12 @@ See the document from Evelyn!
 ## Technical things to learn about
 
 - **python**
+  - https://dabeaz-course.github.io/practical-python/
+  - https://github.com/dabeaz-course/python-mastery
   - conda
     - https://docs.conda.io/projects/conda/en/stable/user-guide/getting-started.html
+  - numpy
+  - matplotlib
 - **working on the cluster**
   - unix shell (bash)
   - ssh
